@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="srclib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../ideaSpace/java-pattern-web/learnforJava_DesignPattern/_4MyBatis/srclib/mysql-connector-java-5.1.37.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../ideaSpace/java-pattern-web/learnforJava_DesignPattern/_4MyBatis/srclib/mybatis-3-mybatis-3.3.0.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

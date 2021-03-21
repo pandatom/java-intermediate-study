@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="asm-commons">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java-design-pattern/Lib/asm-commons.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-design-pattern/Lib/asm-tree.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-design-pattern/Lib/asm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-design-pattern/Lib/cglib-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

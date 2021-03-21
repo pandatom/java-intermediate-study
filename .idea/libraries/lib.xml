@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../ideaSpace/java-pattern-web/learnforJava_DesignPattern/_4MyBatis/lib/asm-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../ideaSpace/java-pattern-web/learnforJava_DesignPattern/_4MyBatis/lib/slf4j-log4j12-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../ideaSpace/java-pattern-web/learnforJava_DesignPattern/_4MyBatis/lib/log4j-core-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../ideaSpace/java-pattern-web/learnforJava_DesignPattern/_4MyBatis/lib/mybatis-3.2.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../ideaSpace/java-pattern-web/learnforJava_DesignPattern/_4MyBatis/lib/slf4j-api-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../ideaSpace/java-pattern-web/learnforJava_DesignPattern/_4MyBatis/lib/javassist-3.17.1-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../ideaSpace/java-pattern-web/learnforJava_DesignPattern/_4MyBatis/lib/ehcache-core-2.6.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../ideaSpace/java-pattern-web/learnforJava_DesignPattern/_4MyBatis/lib/mybatis-ehcache-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../ideaSpace/java-pattern-web/learnforJava_DesignPattern/_4MyBatis/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../ideaSpace/java-pattern-web/learnforJava_DesignPattern/_4MyBatis/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../ideaSpace/java-pattern-web/learnforJava_DesignPattern/_4MyBatis/lib/c3p0-0.9.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../ideaSpace/java-pattern-web/learnforJava_DesignPattern/_4MyBatis/lib/mysql-connector-java-5.1.7-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../ideaSpace/java-pattern-web/learnforJava_DesignPattern/_4MyBatis/lib/log4j-api-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../ideaSpace/java-pattern-web/learnforJava_DesignPattern/_4MyBatis/lib/cglib-2.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
